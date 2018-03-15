@@ -1,0 +1,6 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl dead_tilde" />
+  </action>
+  <action id="PreviousProjectWindow" />
+</keymap>
