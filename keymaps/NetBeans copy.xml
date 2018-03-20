@@ -3,4 +3,5 @@
     <keyboard-shortcut first-keystroke="ctrl dead_tilde" />
   </action>
   <action id="PreviousProjectWindow" />
+  <action id="context.load" />
 </keymap>
