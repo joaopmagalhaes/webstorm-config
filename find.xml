@@ -3,36 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>.mode</mask>
-      <mask>.mod</mask>
-      <mask>.mo</mask>
-      <mask>.m</mask>
-      <mask>.</mask>
-      <mask>*</mask>
-      <mask>*.mo</mask>
-      <mask>*.model</mask>
-      <mask>*.model.</mask>
-      <mask>*.model.ts</mask>
-      <mask>*.</mask>
-      <mask>*.html</mask>
-      <mask>*.t</mask>
-      <mask>*.ty</mask>
-      <mask>*.typing</mask>
-      <mask>*.typing.</mask>
-      <mask>*.typing.ts</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.spec.ts" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.spec.ts</mask>
   </component>
 </application>
